@@ -1,0 +1,4 @@
+Chat bot banana h (rule based chatbot)
+NLTK (NLTK ek Python library hai jo Human Language 
+English jaise text ko computer se samjhane aur process karne ke liye use hoti hai. )
+scikit (NLP +ML)
